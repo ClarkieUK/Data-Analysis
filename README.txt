@@ -1,0 +1,1 @@
+A set of data that was created from an arbitary scale as there was no scale used in the video of source, check Pendulum.PNG 
