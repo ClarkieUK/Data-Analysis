@@ -1,0 +1,1 @@
+A shitton of free datasets and examples of real work applications of physics, use any and all of the data you want. :D
